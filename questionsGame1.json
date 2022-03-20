@@ -1,7 +1,7 @@
 [
     {
         "categoria": "Deporte",
-        "pregunta": "¿Cual de estos equipos futbol no pertenence a Colombia?",
+        "pregunta": "¿Cual de estos equipos de futbol no pertenence a Colombia?",
         "respuesta": "Boca Junior",
         "incorrecta1": "Atletico Nacional",
         "incorrecta2": "America de Cali",

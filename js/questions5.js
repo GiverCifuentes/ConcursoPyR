@@ -51,9 +51,6 @@ window.onload = function() {
 
       alert(`Termina la quinta categoria. Puntos en esta categoria ${puntos}, dele click en aceptar para avanzar`);
       window.location.href= "guardarDatos.html";
-      
-
-
     }
     
     escogerPregunta(n)
