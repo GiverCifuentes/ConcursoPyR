@@ -1,0 +1,43 @@
+[
+    {
+        "categoria": "Animales",
+        "pregunta": " ¿Cuál es el animal más grande del mundo?",
+        "respuesta": "Ballena azul antártica",
+        "incorrecta1": "elefante africano",
+        "incorrecta2": "Calamar colosal",
+        "incorrecta3": "Jirafa"
+    },
+    {
+        "categoria": "Animales",
+        "pregunta": "¿En qué dirección vuelan las aves del norte durante el invierno?",
+        "respuesta": "Sur",
+        "incorrecta1": "norte",
+        "incorrecta2": "este",
+        "incorrecta3": "Oeste"
+    },
+    {
+        "categoria": "Animales",
+        "pregunta": "¿Qué animal es herbívoro?",
+        "respuesta": "Cabra",
+        "incorrecta1": "León",
+        "incorrecta2": "Gato",
+        "incorrecta3": "Serpiente"
+    },
+    {
+        "categoria": "Animales",
+        "pregunta": "¿Qué raza de gato es Garfield?",
+        "respuesta": "Atigrado persa",
+        "incorrecta1": "Gato siames",
+        "incorrecta2": "Bobtail americano",
+        "incorrecta3": "Coon de Maine"
+    },
+    {
+        "categoria": "Animales",
+        "pregunta": "¿Cuánto tiempo dura el embarazo de una ballena?",
+        "respuesta": "16 Meses",
+        "incorrecta1": "9 Meses",
+        "incorrecta2": "14 Meses",
+        "incorrecta3": "26 Meses"
+    }
+    
+]

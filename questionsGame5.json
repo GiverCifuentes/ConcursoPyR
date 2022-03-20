@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cuál es el departamento más poblado de Colombia?",
+        "respuesta": "Cundinamarca",
+        "incorrecta1": "Antioquia",
+        "incorrecta2": "Bogota",
+        "incorrecta3": "Santander"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cuál es la flor nacional de Colombia?",
+        "respuesta": "La orquídea",
+        "incorrecta1": "El girasol",
+        "incorrecta2": "La margarita",
+        "incorrecta3": "El tuliopán"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cuál es la capital de Colombia",
+        "respuesta": "Bogota",
+        "incorrecta1": "Medellín",
+        "incorrecta2": "Cali",
+        "incorrecta3": "Barranquilla"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cuál es la comida tipica de Medellín?",
+        "respuesta": "Bandeja paisa",
+        "incorrecta1": "Mondongo",
+        "incorrecta2": "Ajiaco",
+        "incorrecta3": "Changua"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En qué ciudad colombiana se encuentra la Ciudad Perdida?",
+        "respuesta": "Santa Marta",
+        "incorrecta1": "San Andres",
+        "incorrecta2": "Medellin",
+        "incorrecta3": "Amazonas"
+    }
+]

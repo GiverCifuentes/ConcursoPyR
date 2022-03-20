@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Qué cantidad expresa el número romano V",
+        "respuesta": "5",
+        "incorrecta1": "10",
+        "incorrecta2": "50",
+        "incorrecta3": "100"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Cómo se llama el polígono de siete lados",
+        "respuesta": "Heptágono",
+        "incorrecta1": "Hexágono",
+        "incorrecta2": "Septágono",
+        "incorrecta3": "pentagono"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": " Cuál es el nombre del triángulo que tiene dos lados iguales y uno desigual",
+        "respuesta": "isósceles",
+        "incorrecta1": "escaleno",
+        "incorrecta2": "equilátero",
+        "incorrecta3": "Ninguno de los anteriores"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Cálculo mental rápido: cuánto es 6x8 menos cuatro",
+        "respuesta": "44",
+        "incorrecta1": "42",
+        "incorrecta2": "48",
+        "incorrecta3": "46"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Cuántos meses tiene un trimestre",
+        "respuesta": "3 meses",
+        "incorrecta1": "6 meses",
+        "incorrecta2": "9 meses",
+        "incorrecta3": "5 meses"
+    }
+]

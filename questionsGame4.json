@@ -1,0 +1,43 @@
+[
+    {
+        "categoria": "Comida",
+        "pregunta": "¿Cuál es la carne más cara del mundo?",
+        "respuesta": "Wagyu",
+        "incorrecta1": "Cerdo",
+        "incorrecta2": "Sushi",
+        "incorrecta3": "Pollo"
+    },
+    {
+        "categoria": "Comida",
+        "pregunta": "¿Cuál es la traducción al inglés de la palabra eslava vodka?",
+        "respuesta": "Poca agua",
+        "incorrecta1": "Poco borracho",
+        "incorrecta2": "Mucha agua",
+        "incorrecta3": "Agua bendita"
+    },
+    {
+        "categoria": "Comida",
+        "pregunta": "¿Qué fruta puede ablandar la carne?",
+        "respuesta": "Piña",
+        "incorrecta1": "Manzana",
+        "incorrecta2": "Naranja",
+        "incorrecta3": "Fresa"
+    },
+    {
+        "categoria": "Comida",
+        "pregunta": "¿Cuál fue el primer alimento en el espacio?",
+        "respuesta": "Salsa de manzana",
+        "incorrecta1": "Carne en conserva",
+        "incorrecta2": "Huevos revueltos",
+        "incorrecta3": "Hamburguesa"
+    },
+    {
+        "categoria": "Comida",
+        "pregunta": "¿Cuál es el significado literal de Dorito?",
+        "respuesta": "Pequeñas cosas doradas",
+        "incorrecta1": "Cosas deliciosas",
+        "incorrecta2": "Pequeño y delicioso ",
+        "incorrecta3": "Bondad cursi"
+    }
+    
+]

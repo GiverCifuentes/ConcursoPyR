@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cual de estos equipos futbol no pertenence a Colombia?",
+        "respuesta": "Boca Junior",
+        "incorrecta1": "Atletico Nacional",
+        "incorrecta2": "America de Cali",
+        "incorrecta3": "Santa Fe"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cual de estos equipos tiene dos libertadores?",
+        "respuesta": "Ateltico Nacional",
+        "incorrecta1": "Once Caldas",
+        "incorrecta2": "Deportivo Cali",
+        "incorrecta3": "Millonarios"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quien es LeBron James?",
+        "respuesta": "Un jugador de baloncesto",
+        "incorrecta1": "Un jugador de futbol",
+        "incorrecta2": "Un jugador de tenis",
+        "incorrecta3": "Un jugador de voleyball"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Donde se crearon los Olimpicos?",
+        "respuesta": "Grecia",
+        "incorrecta1": "China",
+        "incorrecta2": "Estados Unidos",
+        "incorrecta3": "Francia"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuántos hoyuelos tiene una pelota de golf promedio?",
+        "respuesta": "336",
+        "incorrecta1": "223",
+        "incorrecta2": "402",
+        "incorrecta3": "187"
+    }
+]
